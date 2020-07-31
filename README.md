@@ -1,2 +1,1 @@
-# Projects
-Changes
+First project with JS
